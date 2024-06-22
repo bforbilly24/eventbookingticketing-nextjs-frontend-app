@@ -76,7 +76,7 @@ const EventSinglePage = ({ events, slug }) => {
 											<h5>{tickets} tickets are available</h5>
 										</div>
 									</div>
-									<Link className='button w-100 mt-4' target='_blank' href='https://eticket.railway.gov.bd/'>
+									<Link className='button w-100 mt-4' target='_blank' href='#'>
 										Confirm your ticket
 									</Link>
 								</div>
